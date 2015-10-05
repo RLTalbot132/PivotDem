@@ -4,7 +4,6 @@ guesses_made = 0
 
 print ' \n'
 print ' \n'
-print ' \n'
 print 'Hello, world!\n'
 
 name = raw_input('Hi there. What is your name?\n')
